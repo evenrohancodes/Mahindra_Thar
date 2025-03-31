@@ -1,5 +1,5 @@
 # Simulation Course for Mahindra Thar  
-*A structured guide for setting up and simulating the Mahindra Thar model in ROS and Gazebo.*
+*This tutorial will show you how it is possible to use ROS 2 and the Gazebo Classic to create a simulated world with a robot and how to control it using the keyboard. It also briefly explains how these tools function but, if you wish to learn more about them, please visit the ROS 2 Documentation. All the code in this tutorial is written in python.*
 
 | **Category** | **Topics Covered** |
 |-------------|------------------|
